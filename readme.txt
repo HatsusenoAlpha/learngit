@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating new branch is quick AND simple.
 
 To create a local branch and commit to remote repository.
+And it succeeds.
